@@ -7,14 +7,6 @@
 🤸🏼‍♂️ **Dancing Developer**   
 🖥 **Web Front-end**
 
-<br />
-
-<div>
-  
-  [![SNUPI's github stats](https://github-readme-stats.vercel.app/api?username=joohaem&theme=algolia)](https://github.com/joohaem/github-readme-stats)
-  
-</div>
-
 <hr />
 
 <div align="center">
