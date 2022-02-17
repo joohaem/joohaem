@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/framer/motion-0055ff?style=flat-square&logo=Framer&logoColor=white"/>
   <br />
   <img src="https://img.shields.io/badge/MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -60,5 +61,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://shields.io/
+https://simpleicons.org/
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyhn123)](https://solved.ac/gyhn123)
 -->
