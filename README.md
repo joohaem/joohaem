@@ -3,9 +3,9 @@
 > 세심한 조력으로, 당신이 함께 일하고 싶은 개발자    
 > With attensive communication, the Developer you want to work with.
 
-📚 **Dongguk University, ICE**   
-🤸🏼‍♂️ **Dancing Developer**   
-🖥 **Web Front-end**
+옆 이메일을 통해 연락해주세요
+<br />
+Contact me at the email address listed
 
 <hr />
 
@@ -16,17 +16,32 @@
 <br />
 
 <div align="right">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESBuild-ffcf00?style=flat-square&logo=ESBuild&logoColor=black"/>
   <br />
   <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
   <br />
+  <img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+  <br />
   <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Asana-f06a6a?style=flat-square&logo=Asana&logoColor=white"/>
 </div>
 
+<hr />
+
+<div align="center">
+  <h3>My footprint ...</h3>
+</div>
+
+🌉 **Tridge, Frontend Product Engineer** (23.06 ~)
+<br />
+🌏 **SOPT, Web Part Leader** (22.09 ~ 23.02)
+<br />
+📚 **Dongguk University, Information Communication Engineering** (17.03 ~ 24.02)
    
 <!--
 **joohaem/joohaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
