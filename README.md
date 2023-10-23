@@ -37,6 +37,8 @@ Contact me at the email address listed
   <h3>My footprint ...</h3>
 </div>
 
+<br />
+
 🌉 **Tridge, Frontend Product Engineer** (23.06 ~)
 <br />
 🌏 **SOPT, Web Part Leader** (22.09 ~ 23.02)
