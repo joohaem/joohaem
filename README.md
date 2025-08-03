@@ -1,19 +1,8 @@
-### Lee Joohaem (SNUPI)
-
-> 세심한 조력으로, 당신이 함께 일하고 싶은 개발자    
-> With attensive communication, the developer you want to work with.
-
 옆 이메일을 통해 연락해주세요
 <br />
 Contact me at the email address listed
 
 <hr />
-
-<div align="center">
-  <h3>My footprint ...</h3>
-</div>
-
-<br />
 
 🔵 **Toss Place, Frontend Developer** (24.06 ~)
 <br />
